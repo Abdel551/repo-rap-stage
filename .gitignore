@@ -1,0 +1,6 @@
+# ignorer les fichiers générés par Mac
+DS_store
+#ignorer repertoire cible et les fichiers .txt dedans 
+cible/*.txt
+# ignorer fichier de configuration
+secrets.txt
